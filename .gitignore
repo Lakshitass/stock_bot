@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+.Python
+
+# Data and results (large, local only)
+data/
+results/
+runs/
+random forest/
+
+# OS & editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Misc
+*.zip
+*.numbers
+*.docx
+venv/
+.DS_Store
+__pycache__/

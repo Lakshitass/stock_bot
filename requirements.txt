@@ -1,0 +1,15 @@
+# Core RL and environment
+stable-baselines3==2.3.2
+gymnasium==0.29.1
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.2
+
+# Data handling
+scipy==1.14.1
+
+# Compatibility
+shimmy==1.3.0
+
+# Optional but useful
+tensorboard==2.17.0

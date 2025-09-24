@@ -1,0 +1,11 @@
+ticker,phase,total_return,annualized_return,sharpe,max_drawdown,num_trades,model_path,artifact_prefix
+AAPL,pretrain,0.8719529166263744,0.0666988196406364,0.3872387574952275,0.4264369084349287,,results/models/multi_sac_pretrain.zip,results/plots/AAPL_pretrain
+AAPL,finetune,1.4156043883611513,0.0950784705713823,0.4970989580315757,0.4489979739054934,,results/models/AAPL_finetuned_from_pretrain.zip,results/plots/AAPL_finetuned
+TSLA,pretrain,0.8719529166263744,0.0666988196406364,0.3872387574952275,0.4264369084349287,,results/models/multi_sac_pretrain.zip,results/plots/TSLA_pretrain
+TSLA,finetune,2.3856071916104797,0.13381890071598757,0.6380368795143605,0.4004914675466825,,results/models/TSLA_finetuned_from_pretrain.zip,results/plots/TSLA_finetuned
+JPM,pretrain,0.8719529166263744,0.0666988196406364,0.3872387574952275,0.4264369084349287,,results/models/multi_sac_pretrain.zip,results/plots/JPM_pretrain
+JPM,finetune,2.213497736688749,0.12774325768507944,0.5968266793420517,0.42343628049678533,,results/models/JPM_finetuned_from_pretrain.zip,results/plots/JPM_finetuned
+GS,pretrain,0.8719529166263744,0.0666988196406364,0.3872387574952275,0.4264369084349287,,results/models/multi_sac_pretrain.zip,results/plots/GS_pretrain
+GS,finetune,3.5889546404972075,0.1698910826630049,0.7116426310561559,0.3869835027360789,,results/models/GS_finetuned_from_pretrain.zip,results/plots/GS_finetuned
+XOM,pretrain,0.8719529166263744,0.0666988196406364,0.3872387574952275,0.4264369084349287,,results/models/multi_sac_pretrain.zip,results/plots/XOM_pretrain
+XOM,finetune,3.354730674238615,0.16359623679697943,0.6662972978727788,0.4472713035175221,,results/models/XOM_finetuned_from_pretrain.zip,results/plots/XOM_finetuned
