@@ -1,5 +1,5 @@
 
-# Stock_bot
+# Stock_bot USING RL
 
 A reinforcement learning + machine learning based trading bot project.  
 This repo contains experiments with **Random Forest**, **DQN**, **PPO**, and **SAC** on multiple stock market datasets.
